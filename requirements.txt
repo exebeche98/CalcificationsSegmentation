@@ -1,0 +1,6 @@
+nibabel
+patchify
+opencv-python
+image
+matplotlib
+segmentation_models
